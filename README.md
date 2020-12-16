@@ -1,14 +1,14 @@
 This recipe creates 4 6-oz lava cakes.
 
-1 stick (4 ounces) unsalted butter
-6 ounces bittersweet chocolate
-2 eggs
-2 egg yolks
-1/4 cup sugar
-Pinch of salt
-2 tbsp all-purpose flour
-confectioner's sugar
-20 raspberries
+<h6>1 stick (4 ounces) unsalted butter</h6>
+<h6>6 ounces bittersweet chocolate</h6>
+<h6>2 eggs</h6>
+<h6>2 egg yolks</h6>
+<h6>1/4 cup sugar</h6>
+<h6>Pinch of salt</h6>
+<h6>2 tbsp all-purpose flour</h6>
+<h6>confectioner's sugar</h6>
+<h6>20 raspberries</h6>
 
 1. Preheat the oven to 450°. Butter and lightly flour four 6-ounce ramekins. Tap out the excess flour. Set the ramekins on a baking sheet.
 
